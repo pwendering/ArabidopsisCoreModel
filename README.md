@@ -39,7 +39,7 @@ It follows a summary of changes that have been introduced in later model version
 - add PGRL1 complex
 - move isocitrate lyase from cytosol to peroxisome
 
-#### von Bismarck et al. (unpublished)
+#### von Bismarck et al. [10.1038/s41467-023-42648-x](https://doi.org/10.1038/s41467-023-42648-x)
 - add cytosolic HPR reaction (HPR2) (Timm et al. (2010), doi: [10.1104/pp.110.166538](https://doi.org/10.1104/pp.110.166538))
 - add hydroxypyruvate transporter between peroxisome and cytosol
 - remove HPR1 from gene associations of chloroplastic HPR reaction (Timm et al. (2010), doi: [10.1104/pp.110.166538](https://doi.org/10.1104/pp.110.166538)) 
